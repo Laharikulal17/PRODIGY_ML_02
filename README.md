@@ -1,0 +1,1 @@
+developing a hand gesture recognition model that baccurately identify and classify different hand gestures from images or video data,enabling intuitive human computer interaction and gesture based control system
